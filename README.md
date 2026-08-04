@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:ff4d00,100:ffcf5c&height=190&section=header&text=Musfirah%20Zunnoon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20think%2C%20automate%2C%20and%20talk%20back&descAlignY=58&descSize=17" width="100%"/>
 
-<img src="assets/phoenix.svg" width="150" alt="phoenix emblem"/>
+<img src="assets/phoenix.webp" width="180" alt="phoenix emblem"/>
 
 <br>
 
@@ -13,8 +13,6 @@
 <br>
 
 ## About Me
-
-Like the phoenix watching over this profile, I like taking things apart and rebuilding them stronger — which, most days, is just a fancy way of describing debugging.
 
 By day, I'm a software engineering student in Islamabad, Pakistan. By night — and most days too — I'm training models, wiring up automation pipelines, and trying to make machines sound a little less like machines.
 
@@ -27,20 +25,6 @@ const musfirah = {
     philosophy: "chasing intelligence + automation + good engineering"
 };
 ```
-
-<br>
-
-## What I Work On
-
-**AI Voice & Automation** — designing voice agents that don't sound like robots, and automation pipelines that quietly do the boring work so humans don't have to.
-
-**AI / ML Engineering** — training models and building systems around them, from image generation to RAG pipelines.
-
-**Quality Assurance** — breaking software on purpose, before it breaks in production.
-
-**Game Development** — designing worlds with their own logic, for fun and for practice.
-
-<br>
 
 ## Tech Stack
 
@@ -113,13 +97,22 @@ const musfirah = {
 </details>
 
 <br>
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=musfirah111&theme=transparent&hide_border=true&background=0a0a1a&border=ff6b35&ring=ff4d00&fire=ff4d00&currStreakLabel=ffcf5c&sideLabels=ffcf5c&currStreakNum=ffffff&sideNums=ffffff&dates=ff9d00&stroke=ff6b35" width="40%" style="max-width:40%;" alt="GitHub streak stats"/>
+</div>
+
+
+<br>
 <br>
 
 <div align="center">
 
 ### Let's build something intelligent together
 
-[<img src="https://img.shields.io/badge/-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ff9d00" height="32">](https://www.linkedin.com/in/musfirah-zunnoon-60a35827a)
+[<img src="https://custom-icon-badges.demolab.com/badge/-1a1a1a?style=for-the-badge&logo=linkedin-white&logoColor=ff6b35" height="32">](https://www.linkedin.com/in/musfirah-zunnoon-60a35827a)
 [<img src="https://img.shields.io/badge/-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff6b35" height="32">](mailto:musfirahzunnoon@gmail.com)
 
 
