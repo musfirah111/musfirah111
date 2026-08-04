@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;AI+%2B+Automation+Enthusiast;Building+AI+Voice+Agents;QA+Tester+by+Discipline;Game+Dev+by+Curiosity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%2B+Automation+Enthusiast;Building+AI+Voice+Agents;QA+Tester+by+Discipline;Game+Dev+by+Curiosity" alt="Typing SVG" />
 
 </div>
 
@@ -102,6 +102,8 @@ const musfirah = {
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=musfirah111&theme=transparent&hide_border=true&background=0a0a1a&border=ff6b35&ring=ff4d00&fire=ff4d00&currStreakLabel=ffcf5c&sideLabels=ffcf5c&currStreakNum=ffffff&sideNums=ffffff&dates=ff9d00&stroke=ff6b35" width="40%" style="max-width:40%;" alt="GitHub streak stats"/>
+
+## 👁️ ![Visitor Count](https://komarev.com/ghpvc/?username=musfirah111&color=ff6b35)
 </div>
 
 
